@@ -87,6 +87,14 @@ A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Plataforma 
 
 Confira nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
 #next-livros
+<div style="display:inline_block"><br>
+  <img align="center" alt="Ropaes-JS"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Ropaes-HTML"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Ropaes-CSS"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Ropaes-React"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Ropaes-Python"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original-wordmark.svg" />
+  </div>
+
 <div>
   <img src="octocat-21.png"align="right" width="30%" margin-top="20px" >
 </div>
