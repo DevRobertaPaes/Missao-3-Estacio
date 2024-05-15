@@ -92,7 +92,8 @@ Confira nossa [documentação de implantação do Next.js](https://nextjs.org/do
   <img align="center" alt="Ropaes-HTML"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Ropaes-CSS"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Ropaes-React"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Ropaes-Python"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original-wordmark.svg" />
+  <img align="center" alt="Ropaes-Next"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
   </div>
 
 <div>
