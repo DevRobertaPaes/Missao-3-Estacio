@@ -56,6 +56,7 @@ Para aprender o React, confira a [documentação do React](https://reactjs.org/)
           
   </div>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # ⚙ Primeiros passos com o aplicativo Create Next
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /criar-próximo-aplicativo).
