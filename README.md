@@ -1,6 +1,6 @@
-# Missao-3-Estacio- React / Next
+# Missao-3-Estacio
 
-# Primeiros passos com o aplicativo Create React
+# ⚙ Primeiros passos com o aplicativo Create React
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
@@ -48,7 +48,7 @@ Você pode saber mais na [documentação sobre criação do aplicativo React](ht
 Para aprender o React, confira a [documentação do React](https://reactjs.org/).
 #react-livros
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Primeiros passos com o aplicativo Create Next
+# ⚙ Primeiros passos com o aplicativo Create Next
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /criar-próximo-aplicativo).
 
@@ -86,4 +86,4 @@ Você pode conferir [o repositório Next.js GitHub](https://github.com/vercel/ne
 A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app -readme) dos criadores do Next.js.
 
 Confira nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
-# próximos livros
+#next-livros
